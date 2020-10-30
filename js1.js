@@ -560,3 +560,11 @@ const z= y.flatMap(x=> [x].join(x));
 console.log(y);
 console.log(z);
 //to group arrays in array
+
+
+//practice git
+
+
+
+
+
